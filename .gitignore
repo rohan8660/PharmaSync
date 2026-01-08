@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data (Never upload data)
+data_input/
+*.pdf
+
+# IDE
+.vscode/
+.idea/
